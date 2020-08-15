@@ -1,4 +1,7 @@
 .checkout {
+  display: flex;
+  background-color: white;
+  height: max-content;
 }
 .checkout__ad {
   width: 100%;
@@ -13,4 +16,7 @@
   height: 1px;
   color: rgb(243, 227, 227);
   background-color: rgb(243, 227, 227);
+}
+.checkout__right {
+  margin-left: 7px;
 }
