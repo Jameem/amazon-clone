@@ -18,11 +18,11 @@ function Product({ id, title, image, price, rating }) {
               <Star className="" />
             ))}
         </div>
-        <img className="product__image" src={image} alt="" />
-        <center>
-          <button className="product__button">Add to Basket</button>
-        </center>
       </div>
+      <img className="product__image" src={image} alt="" />
+      <center>
+        <button className="product__button">Add to Basket</button>
+      </center>
     </div>
   )
 }
