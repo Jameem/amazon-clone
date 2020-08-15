@@ -1,0 +1,16 @@
+.checkout {
+}
+.checkout__ad {
+  width: 100%;
+}
+.checkout__cart {
+  padding: 10px;
+  background-color: white;
+}
+.checkout__hr {
+  margin-bottom: 5px;
+  border: none;
+  height: 1px;
+  color: rgb(243, 227, 227);
+  background-color: rgb(243, 227, 227);
+}
