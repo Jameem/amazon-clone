@@ -1,4 +1,4 @@
-## Available Scripts
+## Amazon Clone
 
 In the project directory, you can run:
 
