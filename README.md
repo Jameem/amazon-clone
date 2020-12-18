@@ -1,4 +1,5 @@
 ## Amazon Clone
+A front-end clone of Amazon with cart and authentication with firebase.
 
 In the project directory, you can run:
 
